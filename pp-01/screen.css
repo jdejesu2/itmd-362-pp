@@ -25,6 +25,14 @@ h1 {
   line-height: 1.0864em; /* 44 / 40.5 = 1.0864 */
 }
 
+
 li {
   padding-bottom: 1.222em; /* 22 / 18 = 1.222 */
+}
+
+
+#emailneeded{
+  padding-top: 1.222em;
+  color: purple;
+  display: block;
 }

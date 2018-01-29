@@ -10,7 +10,8 @@
     if (!validfilter.test(email))
     {
       console.log('not valid email');
-      $('#contactform').append('<li>You need to enter a vaild email</li>');
+      $('#emailneeded').remove();
+      $('#contactform').append('<li id="emailneeded">You need to enter a vaild email</li>');
 
       return false;
     }
