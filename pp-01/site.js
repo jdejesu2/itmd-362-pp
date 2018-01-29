@@ -1,9 +1,8 @@
-
-  $('#contactform').on("submit",
+$('#contactform').on("submit",
   function (e){
 
     var email = $('#email').val();
-    var validfilter = /.+@.+/ ;
+    var validfilter =/.+@.+/;
 
     e.preventDefault();
 
@@ -18,8 +17,8 @@
 
     else
     {
-        $('#contactform').append('<h1>Everything had been entered correctly!!!</h1>');
-        return true;
+      $('#contactform').append('<h1>Everything had been entered correctly!!!</h1>');
+      return true;
     }
   }
 );
