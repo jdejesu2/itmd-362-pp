@@ -12,6 +12,8 @@ Trello, or something else).
 
 Write the name of the service your group has decided to use:
 
+  Basecamp Group
+
 2. In your project coordination software of choice, discuss and choose one member who will create
 the free GitHub Organization account for your team. That member can click the + (plus sign) next to
 their avatar, or go straight to https://github.com/organizations/new As part of that process, the
@@ -23,14 +25,27 @@ on a group member’s computer. **That will be your shared repository for Projec
 
 3. List the names of your group members here:
 
+  The fantastic five:
+  Yifan Yao
+  Wenzhao Zhang
+  Wenwen Xie
+  Jessica DeJesus
+  Jia Yu Huang
+
 4. Copy and paste the URL for your group’s GitHub organization here:
 
+  https://github.com/wjy-itmd-362
+
 5. Copy and paste the URL for your group’s shared repository here:
+
+  https://github.com/wjy-itmd-362/wjy-project2
 
 6. Each member of the group should fork the repository (including the group member whose account
 was used to create the GitHub organization for your project).
 
 Write the URL for your personal fork of the repository here:
+
+  https://github.com/jdejesu2/wjy-project2
 
 7. Each member of the group should clone their forked copy of the repository to his/her computer.
 Once you have cloned the forked copy, you should add the *group* repository as a second remote. Run
@@ -48,3 +63,5 @@ repository. Each group member should review the request before it is merged, and
 group repository to have a complete, up-to-date `README.md` file.
 
 Write the URL of your pull request here:
+
+  https://github.com/wjy-itmd-362/wjy-project2/pull/4
