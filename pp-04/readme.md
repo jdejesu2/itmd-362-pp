@@ -32,4 +32,5 @@ Small commits to your Production Problems repository that include:
 * HCI Guidline Two (URL):
 * How you implemented it in your sketch:
 
-* HCI Guidline Three (URL):
+* HCI Guidline Three (URL): https://developer.apple.com/ios/human-interface-guidelines/controls/labels/
+* How you implemented it in your sketch: For this one, I always tend to keep labels legible and it makes sense. Labels should include plain or styled text. Like even if you choose a different font, it should be legible and readable by the user, should distract them or give them a hard time to read it.
