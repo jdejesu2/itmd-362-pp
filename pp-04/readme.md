@@ -24,14 +24,12 @@ Focus on touch-related elements.
 Small commits to your Production Problems repository that include:
 
 1) photographs of sketches of your new design, from your sketchbook
-2) an explanation of three different points of guidance from your chosen guidelines (point to the
-   specific URL where the guidance can be found) that you implemented in your sketch, written below:
+2) an explanation of three different points of guidance from your chosen guidelines (point to the specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
-* How you implemented it in your sketch:
+* HCI Guidline One (URL): https://developer.apple.com/ios/human-interface-guidelines/controls/buttons/
+* How you implemented it in your sketch: I took the usage of title-case for titles where it states that you should capitalize every word, to me it informs the reader that it's the beginning of a new task. Also the keep titles short since they say that overly long text can crowd your interface really can really through off user with small screens.
 
 * HCI Guidline Two (URL):
 * How you implemented it in your sketch:
 
 * HCI Guidline Three (URL):
-* How you implemented it in your sketch:
