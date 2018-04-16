@@ -30,9 +30,14 @@ your own master usability checklist.
 
 5. Number of Button and Links are reasonable: psychological have said that people can simply process 7 or so pieces, so if your menu or selection options consist of too much, it can clutter your page up and not make it friendly
 
+Other page
 
-6.
-7.
-8.
-9.
-10.
+6. No horizontal scroll: in ANY media queries, there should be no horizontal scroll because it doesn't allows the user to have a nice and easy experience when navigating your site
+
+7. Clickable items are obvious: items of site that have a clickable purpose should suggest that, so same thing for items that aren't, it should have no characteristics that they are, “functionality of buttons and controls is obvious from their labels or from their design”
+
+8. Consistent layout: each page on the site share the same starting layout so when going through site, there is this pleasing consistency  
+
+9. Colors: all colors used work well and look like they belong together; no complicated background or abstract elements  
+
+10. Text: “content pages, line lengths are neither too short (<50 characters per line) nor too long (>100 characters per line) when viewed in a standard browser width window” -- for when we get contents pages for the events, what is appropriate to write and how much
